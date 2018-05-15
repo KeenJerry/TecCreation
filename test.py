@@ -1,1 +1,1 @@
-# this is a file for RNN test
+# This a test file for tensorflow RNN network
